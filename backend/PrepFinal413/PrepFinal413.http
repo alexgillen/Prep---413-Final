@@ -1,0 +1,6 @@
+@PrepFinal413_HostAddress = http://localhost:5058
+
+GET {{PrepFinal413_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
