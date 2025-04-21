@@ -13,7 +13,7 @@ const EntertainerListPage = () => {
     const fetchEntertainers = async () => {
       try {
         const response = await axios.get(
-          'http://localhost:5058/api/EntertainmentAgency/EntertainerStats'
+          'https://413-final-backend-evere3h7c5cge4g2.eastus-01.azurewebsites.net/api/EntertainmentAgency/EntertainersStats'
         );
         setEntertainers(response.data);
       } catch (err) {

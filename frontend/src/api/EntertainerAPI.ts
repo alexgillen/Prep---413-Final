@@ -1,7 +1,8 @@
 import axios from 'axios';
 import { Entertainer } from '../types/Entertainer';
 
-const API_BASE = 'http://localhost:5058/api/EntertainmentAgency';
+const API_BASE =
+  'https://413-final-backend-evere3h7c5cge4g2.eastus-01.azurewebsites.net/api/EntertainmentAgency';
 
 export const addEntertainer = async (entertainer: Entertainer) => {
   const response = await axios.post(`${API_BASE}/AddEntertainer`, entertainer);
