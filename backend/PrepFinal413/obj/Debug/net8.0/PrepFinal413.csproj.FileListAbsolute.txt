@@ -134,3 +134,5 @@ C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 Final\backend\PrepFinal413\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 Final\backend\PrepFinal413\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 Final\backend\PrepFinal413\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 Final\backend\PrepFinal413\obj\Debug\net8.0\PrepFinal413.sourcelink.json
+C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Prep-413 Final\backend\PrepFinal413\bin\Debug\net8.0\EntertainmentAgencyExample.sqlite
